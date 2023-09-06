@@ -1,5 +1,7 @@
 # MD5 VRCLens Videography Overhaul Extension
 
+![2023-09-07_00-20-29-min](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/e282e135-29ba-44ec-8e5c-c63b6b96610a)
+
 Created by **MD5 Visual**
 
 Twitter: [https://twitter.com/MD5Visual](https://twitter.com/MD5Visual)
