@@ -160,6 +160,84 @@ This system is designed to allow enchanced control over video recording in VRCha
 6. When you are ready to record, press `Shift+F3` to toggle fullscreen display of the camera.
 8. Record!
 
-## Usage Instructions
+# VRChat Controls Overview
+> This guide assumes that you are familiar with VRCLens and the way it works. If not the instructions for it are bundled with the VRCLens purchase.
 
-**Under Construction**
+The radial menu has a new addition in form of `Quick Access`
+
+![VRChat_2023-09-06_22-04-35](https://github.com/MD5Visual/VRCL-DC/assets/134655923/b4bf771e-ed1e-4c2b-8cd3-17521a62cfce)
+
+`Quick access` has links to Exposure, VR Monitor HUD, Zoom and Focus for easier access to these setting while in VR
+
+![VRChat_2023-09-06_22-04-58](https://github.com/MD5Visual/VRCL-DC/assets/134655923/fb3d6c34-6ea3-4457-89f1-8e91ee95b554)
+
+When you want to control the VRCLens drone in VR, you are required to have both radial menus open on both controllers, one controlling the `Move Camera` and the other controlling the `Change Angle` at the same time
+
+![VRChat_2023-09-06_22-04-50](https://github.com/MD5Visual/VRCL-DC/assets/134655923/5f75798d-2cdf-48ed-b758-7af865831af1)
+![VRChat_2023-09-06_22-04-46](https://github.com/MD5Visual/VRCL-DC/assets/134655923/3f8ce432-54d3-4050-906a-ec388433b4fc)
+
+When you have VRCLens enabled, make sure that `DirectCast` icon is shown ![ApplicationFrameHost_2023-09-06_22-18-30](https://github.com/MD5Visual/VRCL-DC/assets/134655923/00f43096-f690-4e21-ada9-671c14e84535)
+
+![VRChat_2023-09-06_22-06-38](https://github.com/MD5Visual/VRCL-DC/assets/134655923/164fb908-cb8b-45bf-9ff6-54ab4afb661f)
+
+# TouchOSC Overview
+
+![TouchOSC_2023-09-06_22-09-01](https://github.com/MD5Visual/VRCL-DC/assets/134655923/a1dd51ef-692d-41a5-834a-e50e8b0016e9)
+
+The control surface is divided into 3 main sections: `Top Bar` `Camera Control` `Drone Control`
+
+## Top Bar
+
+![image](https://github.com/MD5Visual/VRCL-DC/assets/134655923/4f94e164-b6aa-41ad-bbe4-30394d6aecf5)
+
+This section has information about the current version as well platforms this TouchOSC file is designed for. W - Windows/Mac, A - Android, I - Apple devices
+
+![image](https://github.com/MD5Visual/VRCL-DC/assets/134655923/99b3a71e-0eeb-44d7-b34e-061d93a7c085)
+
+This section shows current time, battery percentage as well as On/Off buttons for the camera system in VRChat.
+The `OFF` button only triggers on double click.
+
+## Camera controls
+
+![image](https://github.com/MD5Visual/VRCL-DC/assets/134655923/b3e234c1-fef5-47ca-9c2b-11b4004591a1)
+
+Here are the aperture and Focus controls. The slider can be adjusted with touch, as well as holding down the `Inc`/`Dec` buttons to Increase/Decrease the value
+
+![image](https://github.com/MD5Visual/VRCL-DC/assets/134655923/1053bc5f-c5c5-4cab-a69c-265792ce5377)
+
+The main button pad houses most common buttons that are used when doing recordings.
+`Drone Reset` re-locks the camera back to the initial position and stops the drone operation. To move the drone again `Drone ON` button has to be toggled on and off and on again.
+
+![image](https://github.com/MD5Visual/VRCL-DC/assets/134655923/3e24ebfb-0481-4929-887b-6170ec2a87a8)
+
+The focus control section has preset buttons for 50mm focal length and 22mm focal length, as well as `Inc`/`Dec` buttons with regular slider touch control.
+
+## Drone Controls
+
+![ApplicationFrameHost_2023-09-06_22-37-34](https://github.com/MD5Visual/VRCL-DC/assets/134655923/19979199-7956-4284-bb00-28aaf6e87609)
+![ApplicationFrameHost_2023-09-06_22-37-40](https://github.com/MD5Visual/VRCL-DC/assets/134655923/b2590e2e-a778-4c61-b951-4981674752bb)
+
+This displays the current state of the sticks that control the drone movement. The farther they are to the edges the faster the drone moves/rotates.
+
+![image](https://github.com/MD5Visual/VRCL-DC/assets/134655923/bd5a99bb-cf01-4685-a834-08d95b776c7a)
+
+This section shows the current rate of the `Up`/`Down` movement
+
+![image](https://github.com/MD5Visual/VRCL-DC/assets/134655923/75caada8-a09a-4f9e-86f3-ec967925e517)
+
+The main drone speed move speed adjustment slider, only affects the movement, not the rotation of the drone.
+
+![image](https://github.com/MD5Visual/VRCL-DC/assets/134655923/2d4af2e7-3f21-4794-8f25-31c12f57871e)
+
+The button that toggles the movement of the drone on or off.
+> Sadly, does not react to the actual state of the drone, so if the drone is not moving, but the button says `Drone ON`, just press it off and on again and it should work.
+
+![image](https://github.com/MD5Visual/VRCL-DC/assets/134655923/f6f97ea9-d290-4bd8-a33c-af290481c554)
+
+The `Boost` button BOOOOOOOOOOOOOOOOOSTS the drone speed. Effectively sets the `Drone Move Speed` to `1` while the button is pressed.
+
+# Controller Layout
+
+![image](https://github.com/MD5Visual/VRCL-DC/assets/134655923/f777486e-067c-4259-8f12-10b734ec43f7)
+
+
