@@ -8,6 +8,8 @@ Instagram: [https://www.instagram.com/MD5Visual/](https://www.instagram.com/MD5V
 
 Discord: Mrdanslite
 
+Credits: Hirabiki
+
 ## Overview
 This system is designed to allow enchanced control over video recording in VRChat utilizing Hirabiki's VRCLens as a foundation.
 
