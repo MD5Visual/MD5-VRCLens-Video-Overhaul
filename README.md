@@ -66,7 +66,8 @@ This system is designed to allow enchanced control over video recording in VRCha
 
 3. Load the file corresponding to your device into TouchOSC
 4. Go to the ![TouchOSC_2023-09-06_20-29-10](https://github.com/MD5Visual/VRCL-DC/assets/134655923/8f6e0b12-77e9-4f91-99b9-4f68206021aa) menu and setup `OSC` and `GAMEPAD` sections
-   ![TouchOSC_2023-09-06_20-29-42](https://github.com/MD5Visual/VRCL-DC/assets/134655923/432230e0-1bc4-4269-813e-6ecb76d188ea)
+
+    ![TouchOSC_2023-09-06_20-29-42](https://github.com/MD5Visual/VRCL-DC/assets/134655923/432230e0-1bc4-4269-813e-6ecb76d188ea)
 
   > If you are using any device that is not the PC on which you are running VRChat, you have to download TouchOSC on your PC and have it running.
   Once you've done that, on your device press the `Browse` button next to the `Host:` input.
@@ -89,5 +90,66 @@ This system is designed to allow enchanced control over video recording in VRCha
    | 2560x1440 | `-screen-width 2561 -screen-height 1440` |
    | 1920x1080 | `-screen-width 1921 -screen-height 1080` |
 
-2. 
+2. In OBS, add a new scene
+3. Add `Game Capture` for VRChat
+4. Add `Application Audio Capture` and select VRChat as the Window
+5. Your "Audio Mixer" should look something like this:
+
+![obs64_2023-09-06_20-59-24](https://github.com/MD5Visual/VRCL-DC/assets/134655923/2f36f859-54e3-42ad-b489-0e338306c25a)
+
+6. Open up `Advanced Audio Properties`
+
+![obs64_2023-09-06_21-04-33](https://github.com/MD5Visual/VRCL-DC/assets/134655923/94a862ef-6fe3-41f8-896e-ae330674acda)
+
+7. And setup the tracks of different inputs like this:
+
+![obs64_2023-09-06_21-10-14](https://github.com/MD5Visual/VRCL-DC/assets/134655923/8a6d02a1-9037-4acf-bfeb-8ff310156d7e)
+
+8. Close `Advanced Audio Propertis`
+9. Open OBS Settings
+10. In `Video` set the `Base (Canvas) Resolution` and `Output (Canvas) Resolution` to `2560x1440` if you have a `2560x1440` resolution screen or `1920x1080` if you have a `1920x1080` resolution screen
+11. Set the `Common FPS Values` to `30`, if not set by default
+
+    ![obs64_2023-09-06_21-11-59](https://github.com/MD5Visual/VRCL-DC/assets/134655923/3527ea0d-a106-45e0-9662-8820bd8f1515)
+
+12. In `Output` set the `Output Mode` to `Advanced` and go to `Recording` tab
+13. Set the settings to be like the screenshot
+
+    ![obs64_2023-09-06_21-15-13](https://github.com/MD5Visual/VRCL-DC/assets/134655923/bcc87f1f-e41e-46b4-9e7b-c80670126170)
+
+14. Click `Save`
+14. You are ready to record!
+
+> This is next section is only if you want to record while in desktop VRChat for increased performance (meaning more people shown in world)
+> For VR Recording you can just jump in VR and start recording.
+
+## Additional Desktop Only Recording setup
+
+### Pre-setup Instructions (ONLY NEEDED TO DO ONCE)
+
+0. Download [ImgOverlay](https://github.com/Apprehentice/ImgOverlay/releases/tag/1.1.0) and [Sizer](http://www.brianapps.net/sizer/)
+1. Install `Sizer` and unzip `ImgOverlay` to a convenient folder
+2. Run both programs
+
+### Sizer Instructions (ONLY NEEDED TO DO ONCE)
+
+1. Right-click the `Sizer` icon from the `Show Hidden Icons` section in your taskbar and press `Configure Sizer...`
+4. Once in Sizer, click `Add Size` and a new window should pop up.
+5. Set the `Description` to something like `VRCL-DC Overlay`
+6. Set `Width` to `2561` and `Height` to `1440` for 2560x1440 screen size, or `Width` to `1921` and `Height` to `1080` for 1920x1080 screen size
+7. Click `OK*` to save
+
+### ImgOverlay Instructions
+
+1. In `ImgOverlay`, press `Load...` and load the `VRCL-DC Desktop Overlay.png`
+4. Once loaded, press `Move Image` in ImgOverlay
+1. Hover over the overlay image and press `Ctrl+Win+Z` to open up Sizer popup menu and press the `VRCL-DC Overlay` option in the menu that appears
+2. Once the overlay is resized, move it to match the overlay top left corner with VRChat window top left corner
+3. After alignment, click `Move Image` again to disable the ability to move the overlay
+4. Minimize the `Image Overlay` window and the overlay is ready to be used.
+
+### VRChat instructions
+1. When in `VRChat`, launch the `MD5 Camera System`, ensure all the settings are correct in the top right corner preview.
+6. When you are ready to record, press `Shift+F3` to toggle fullscreen display of the camera.
+8. Record!
 
