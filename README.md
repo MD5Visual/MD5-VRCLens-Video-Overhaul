@@ -8,7 +8,9 @@ This system is designed to allow enchanced control over video recording in VRCha
 * [Hirabiki's VRCLens](https://hirabiki.gumroad.com/l/rpnel)
 * [TouchOSC](https://hexler.net/touchosc)
 * Apple Device (iPhone/iPad) *PREFERRED*
+  
   __*or*__ Android Device (Phone/Tablet)
+  
   __*or*__ PC or Mac
 * [OBS](https://obsproject.com/download)
   
