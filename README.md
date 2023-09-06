@@ -11,7 +11,9 @@ This system is designed to allow enchanced control over video recording in VRCha
   
   __*or*__ Android Device (Phone/Tablet)
   
-  __*or*__ PC or Mac
+  __*or*__ PC
+  
+  __*or*__ Mac
 * [OBS](https://obsproject.com/download)
   
 *For Desktop Recording:*
@@ -50,5 +52,32 @@ This system is designed to allow enchanced control over video recording in VRCha
 
 ### TouchOSC Setup
 
-1. Download
-   For Android/PC: VRCL-DC_Android_Win_X.XX.
+1. Download and install [TouchOSC](https://hexler.net/touchosc) on a device of your choosing
+2. Download
+
+| Platform | File |
+|---|---|
+| Android Phone | VRCL-DC_Android_X.XX.X_XXXXX.tosc |
+| Android Tablet/PC/Mac | VRCL-DC_Android_Tab_Win_Mac_X.XX.X_XXXXX.tosc |
+| iPad | VRCL-DC_iPad_X.XX.X_XXXXX.tosc |
+| iPhone | VRCL-DC_iPhone_X.XX.X_XXXXX.tosc |
+
+3. Load the file corresponding to your device into TouchOSC
+4. Go to the ![TouchOSC_2023-09-06_20-29-10](https://github.com/MD5Visual/VRCL-DC/assets/134655923/8f6e0b12-77e9-4f91-99b9-4f68206021aa) menu and setup `OSC` and `GAMEPAD` sections
+   ![TouchOSC_2023-09-06_20-29-42](https://github.com/MD5Visual/VRCL-DC/assets/134655923/432230e0-1bc4-4269-813e-6ecb76d188ea)
+
+  > If you are using any device that is not the PC on which you are running VRChat, you have to download TouchOSC on your PC and have it running.
+  Once you've done that, on your device press the `Browse` button next to the `Host:` input.
+  It should show your computer on the list. Click on your PC name, and then select the `192.168.XXX.XXX` IP address. Otherwise, if your are using TouchOSC on your PC, use `127.0.0.1` like on the screenshot.
+
+   ![TouchOSC_2023-09-06_20-29-58](https://github.com/MD5Visual/VRCL-DC/assets/134655923/b4c9df78-212a-48e9-88f5-46e7ea39a87e)
+
+   > Once you have connected your gamepad to your device, press the checkbox next to `Connection 1` and then click `Browse` and select the controller that you have connected from the list.
+
+5. Press ![TouchOSC_2023-09-06_20-30-14](https://github.com/MD5Visual/VRCL-DC/assets/134655923/d0dc3415-38a1-434b-ae76-b55480cc78c6) to launch the TouchOSC controller
+6. TouchOSC is setup!
+
+### VRChat Recording Setup
+
+
+
