@@ -150,13 +150,15 @@ This system is designed to allow enchanced control over video recording in VRCha
 
 1. Right-click the `Sizer` icon from the `Show Hidden Icons` section in your taskbar and press `Configure Sizer...`
 
-![chrome_2023-09-06_21-39-07](https://github.com/MD5Visual/VRCL-DC/assets/134655923/5953f887-7d34-4ce9-85e0-3d40911b2b4e)
+![chrome_2023-09-06_21-39-07](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/906e5d55-dd9e-4a5c-a5a6-c52de2276c8e)
 
 2. Once in Sizer, click `Add Size` and a new window should pop up.
 3. Set the `Description` to something like `VRCL-DC Overlay`
 4. Set `Width` to `2561` and `Height` to `1440` for 2560x1440 screen size, or `Width` to `1921` and `Height` to `1080` for 1920x1080 screen size
 
-![sizer_2023-09-06_21-50-51](https://github.com/MD5Visual/VRCL-DC/assets/134655923/46b8457c-fb8e-4fcc-a4e4-25d2dfa555d9)
+![sizer_2023-09-06_21-50-51](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/b5a2a209-045d-4af8-bd68-a04a2363a381)
+
+
   
 5. Click `OK*` to save
 
@@ -166,7 +168,8 @@ This system is designed to allow enchanced control over video recording in VRCha
 2. Once loaded, press `Move Image` in ImgOverlay
 3. Hover over the overlay image and press `Ctrl+Win+Z` to open up Sizer popup menu and press the `VRCL-DC Overlay` option in the menu that appears
 
-![chrome_2023-09-06_21-53-46](https://github.com/MD5Visual/VRCL-DC/assets/134655923/442e3eeb-dac2-4a79-99c6-bc9f3b3e5da2)
+![chrome_2023-09-06_21-53-46](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/823eb41d-3458-43ee-b9d4-fcf5851e3deb)
+
 
 4. Once the overlay is resized, move it to match the overlay top left corner with VRChat window top left corner
 5. After alignment, click `Move Image` again to disable the ability to move the overlay
@@ -182,79 +185,95 @@ This system is designed to allow enchanced control over video recording in VRCha
 
 The radial menu has a new addition in form of `Quick Access`
 
-![VRChat_2023-09-06_22-04-35](https://github.com/MD5Visual/VRCL-DC/assets/134655923/b4bf771e-ed1e-4c2b-8cd3-17521a62cfce)
+![VRChat_2023-09-06_22-04-35](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/cf8c65e7-ce52-4acd-83c9-a12716c26178)
+
 
 `Quick access` has links to Exposure, VR Monitor HUD, Zoom and Focus for easier access to these setting while in VR
 
-![VRChat_2023-09-06_22-04-58](https://github.com/MD5Visual/VRCL-DC/assets/134655923/fb3d6c34-6ea3-4457-89f1-8e91ee95b554)
+![VRChat_2023-09-06_22-04-58](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/8bf6da31-8f34-4c39-8a4d-145510d2ce64)
+
 
 When you want to control the VRCLens drone in VR, you are required to have both radial menus open on both controllers, one controlling the `Move Camera` and the other controlling the `Change Angle` at the same time
 
-![VRChat_2023-09-06_22-04-50](https://github.com/MD5Visual/VRCL-DC/assets/134655923/5f75798d-2cdf-48ed-b758-7af865831af1)
-![VRChat_2023-09-06_22-04-46](https://github.com/MD5Visual/VRCL-DC/assets/134655923/3f8ce432-54d3-4050-906a-ec388433b4fc)
+![VRChat_2023-09-06_22-04-50](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/6da1cd0d-43fe-4d20-9563-88c3f0a4f9aa)
+![VRChat_2023-09-06_22-04-46](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/e8fb496c-1188-4cdd-b96d-1738b0c82d51)
 
-When you have VRCLens enabled, make sure that `DirectCast` icon is shown ![ApplicationFrameHost_2023-09-06_22-18-30](https://github.com/MD5Visual/VRCL-DC/assets/134655923/00f43096-f690-4e21-ada9-671c14e84535)
+When you have VRCLens enabled, make sure that `DirectCast` icon is shown ![ApplicationFrameHost_2023-09-06_22-18-30](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/58e2f95f-b6a4-4d69-8297-f0b5564a3ea3)
 
-![VRChat_2023-09-06_22-06-38](https://github.com/MD5Visual/VRCL-DC/assets/134655923/164fb908-cb8b-45bf-9ff6-54ab4afb661f)
+
+![VRChat_2023-09-06_22-06-38](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/ba9f52e8-944a-4c24-9f16-eddc17cbf8e9)
+
 
 # TouchOSC Overview
 
-![TouchOSC_2023-09-06_22-09-01](https://github.com/MD5Visual/VRCL-DC/assets/134655923/a1dd51ef-692d-41a5-834a-e50e8b0016e9)
+![TouchOSC_2023-09-06_22-09-01](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/d4e3efa2-8376-4a50-b3b6-3bcf02c4df77)
+
 
 The control surface is divided into 3 main sections: `Top Bar` `Camera Control` `Drone Control`
 
 ## Top Bar
 
-![image](https://github.com/MD5Visual/VRCL-DC/assets/134655923/4f94e164-b6aa-41ad-bbe4-30394d6aecf5)
+![ApplicationFrameHost_2023-09-06_22-24-59](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/c5372c4c-aa3e-46f2-84d6-503b23cdf68d)
+
 
 This section has information about the current version as well platforms this TouchOSC file is designed for. W - Windows/Mac, A - Android, I - Apple devices
 
-![image](https://github.com/MD5Visual/VRCL-DC/assets/134655923/99b3a71e-0eeb-44d7-b34e-061d93a7c085)
+![ApplicationFrameHost_2023-09-06_22-28-44](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/547983a2-646f-47cf-8941-c8bff4209731)
+
 
 This section shows current time, battery percentage as well as On/Off buttons for the camera system in VRChat.
 The `OFF` button only triggers on double click.
 
 ## Camera controls
 
-![image](https://github.com/MD5Visual/VRCL-DC/assets/134655923/b3e234c1-fef5-47ca-9c2b-11b4004591a1)
+![ApplicationFrameHost_2023-09-06_22-30-17](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/1c86c088-f280-4b16-8b47-b1afc164e624)
+
 
 Here are the aperture and Focus controls. The slider can be adjusted with touch, as well as holding down the `Inc`/`Dec` buttons to Increase/Decrease the value
 
-![image](https://github.com/MD5Visual/VRCL-DC/assets/134655923/1053bc5f-c5c5-4cab-a69c-265792ce5377)
+![ApplicationFrameHost_2023-09-06_22-32-42](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/7088d913-c981-4bb4-8958-042f9cfd9510)
+
 
 The main button pad houses most common buttons that are used when doing recordings.
 `Drone Reset` re-locks the camera back to the initial position and stops the drone operation. To move the drone again `Drone ON` button has to be toggled on and off and on again.
 
-![image](https://github.com/MD5Visual/VRCL-DC/assets/134655923/3e24ebfb-0481-4929-887b-6170ec2a87a8)
+![ApplicationFrameHost_2023-09-06_22-35-37](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/64684af3-6ef9-4d2e-a399-d999ed055682)
+
 
 The focus control section has preset buttons for 50mm focal length and 22mm focal length, as well as `Inc`/`Dec` buttons with regular slider touch control.
 
 ## Drone Controls
 
-![ApplicationFrameHost_2023-09-06_22-37-34](https://github.com/MD5Visual/VRCL-DC/assets/134655923/19979199-7956-4284-bb00-28aaf6e87609)
-![ApplicationFrameHost_2023-09-06_22-37-40](https://github.com/MD5Visual/VRCL-DC/assets/134655923/b2590e2e-a778-4c61-b951-4981674752bb)
+![ApplicationFrameHost_2023-09-06_22-37-40](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/b5145b3b-2b4c-4164-a629-33089982f579)
+![ApplicationFrameHost_2023-09-06_22-37-34](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/a33d489a-9bc7-46c5-a0ff-48886d061524)
+
 
 This displays the current state of the sticks that control the drone movement. The farther they are to the edges the faster the drone moves/rotates.
 
-![image](https://github.com/MD5Visual/VRCL-DC/assets/134655923/bd5a99bb-cf01-4685-a834-08d95b776c7a)
+![ApplicationFrameHost_2023-09-06_22-39-04](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/3d5d2e24-edaa-4fcc-b98d-38d24b3feaae)
+
 
 This section shows the current rate of the `Up`/`Down` movement
 
-![image](https://github.com/MD5Visual/VRCL-DC/assets/134655923/75caada8-a09a-4f9e-86f3-ec967925e517)
+![ApplicationFrameHost_2023-09-06_22-40-34](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/6119d6fd-7e6e-4ef9-8fdf-17302b93541c)
+
 
 The main drone speed move speed adjustment slider, only affects the movement, not the rotation of the drone.
 
-![image](https://github.com/MD5Visual/VRCL-DC/assets/134655923/2d4af2e7-3f21-4794-8f25-31c12f57871e)
+![ApplicationFrameHost_2023-09-06_22-41-24](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/b58d4ca4-dbbc-44f3-82cc-025b3adc29b8)
+
 
 The button that toggles the movement of the drone on or off.
 > Sadly, does not react to the actual state of the drone, so if the drone is not moving, but the button says `Drone ON`, just press it off and on again and it should work.
 
-![image](https://github.com/MD5Visual/VRCL-DC/assets/134655923/f6f97ea9-d290-4bd8-a33c-af290481c554)
+![ApplicationFrameHost_2023-09-06_22-43-18](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/dec7c12c-2de6-403e-85ef-751ac3376deb)
+
 
 The `Boost` button BOOOOOOOOOOOOOOOOOSTS the drone speed. Effectively sets the `Drone Move Speed` to `1` while the button is pressed.
 
 # Controller Layout
 
-![image](https://github.com/MD5Visual/VRCL-DC/assets/134655923/f777486e-067c-4259-8f12-10b734ec43f7)
+![Photoshop_2023-09-06_23-23-28](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/95c9fb4f-f6e8-486d-bc9b-3be99866a310)
+
 
 
