@@ -73,7 +73,7 @@ This system is designed to allow enchanced control over video recording in VRCha
 | iPhone | VRCL-DC_iPhone_X.XX.X_XXXXX.tosc |
 
 3. Load the file corresponding to your device into TouchOSC
-4. Go to the ![TouchOSC_2023-09-06_20-29-10](https://github.com/MD5Visual/VRCL-DC/assets/134655923/8f6e0b12-77e9-4f91-99b9-4f68206021aa) menu and setup `OSC` and `GAMEPAD` sections
+4. Go to the ![TouchOSC_2023-09-06_20-29-10](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/bc02fc8e-7f22-4d99-b464-9c1ae4745b44) menu and setup `OSC` and `GAMEPAD` sections
 
     ![TouchOSC_2023-09-06_20-29-42](https://github.com/MD5Visual/VRCL-DC/assets/134655923/432230e0-1bc4-4269-813e-6ecb76d188ea)
 
