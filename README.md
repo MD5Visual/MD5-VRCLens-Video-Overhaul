@@ -123,7 +123,7 @@ This system is designed to allow enchanced control over video recording in VRCha
 > This is next section is only if you want to record while in desktop VRChat for increased performance (meaning more people shown in world)
 > For VR Recording you can just jump in VR and start recording.
 
-## Additional Desktop Only Recording setup
+## Additional Desktop Only Recording setup instructions
 
 ### Pre-setup Instructions (ONLY NEEDED TO DO ONCE)
 
@@ -153,3 +153,6 @@ This system is designed to allow enchanced control over video recording in VRCha
 6. When you are ready to record, press `Shift+F3` to toggle fullscreen display of the camera.
 8. Record!
 
+## Usage Instructions
+
+**Under Construction**
