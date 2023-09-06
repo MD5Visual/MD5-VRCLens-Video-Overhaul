@@ -31,7 +31,7 @@ This system is designed to allow enchanced control over video recording in VRCha
 1. Purchase a copy of [Hirabiki's VRCLens](https://hirabiki.gumroad.com/l/rpnel)
 2. Download VRCL-DC Controller Update.unitypackage from the Releases
 3. Select an avatar that you wish to add VRCLens to
-4. import VRCLens .unitypackage into your Unity project
+4. Import VRCLens .unitypackage into your Unity project
 5. Add VRCLens prefab to your scene
 6. Select the prefab
 7. Set `Target Avatar` to be the avatar that you want to add the VRCLens to
@@ -47,8 +47,8 @@ This system is designed to allow enchanced control over video recording in VRCha
 > *This "Best quality" is best ratio of performance hit to final shot result. If you have a 4K screen and a rig with multiple 4090s you can increase the sensor resolution to `8.3MP 4K (3840x2160)`, but that will only allow you to record a couple of people in the world at once.
 
 8. *OPTIONAL* You can set `Camera Model: **None**` to save on materials
-9. Click "Apply VRCLens"
-10. Import VRCL-DC Controller Update.unitypackage into your Unity Project
+9. Click `Apply VRCLens`
+10. Import `VRCL-DC Controller Update.unitypackage` into your Unity Project
 11. Replace/merge your `FX`/`Expression Menu`/`Expression Parameters` on your avatar with `VRCL_DC_Menu`/`VRCL_DC_Menu`/`VRCL_DC_Parameters` respectivelly
 12. Your avatar is ready for upload!
 
