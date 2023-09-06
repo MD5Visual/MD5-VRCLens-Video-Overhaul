@@ -37,12 +37,14 @@ This system is designed to allow enchanced control over video recording in VRCha
 7. Set `Target Avatar` to be the avatar that you want to add the VRCLens to
 8. *REQUIRED* When setting up the VRCLens prefab, these following settings have to be set correctly:
 
-| For lowest performance hit: | *For best quality:* |
+| For lowest performance hit: | *For best quality:** |
 |---|---|
 | Max Blur Size (Performance Adjustment): **Medium - RTX 2060/GTX 1080/ RX 6600** | Max Blur Size (Performance Adjustment): **Large - RTX 3060/RTX 2070 Super/ RX 6600 XT** |
 | Enable drone controls: **ON** | Enable drone controls: **ON** |
 | Sensor resolution: **2.1MP HD (1920x1080)** | Sensor resolution: **3.7MP QHD (2560x1440)**  |
 | Anti-aliasing: **Off** | Anti-aliasing: **Auto** |
+
+> *This "Best quality" is best ratio of performance hit to final shot result. If you have a 4K screen and a rig with multiple 4090s you can increase the sensor resolution to `8.3MP 4K (3840x2160)`, but that will only allow you to record a couple of people in the world at once.
 
 8. *OPTIONAL* You can set `Camera Model: **None**` to save on materials
 9. Click "Apply VRCLens"
@@ -78,6 +80,14 @@ This system is designed to allow enchanced control over video recording in VRCha
 6. TouchOSC is setup!
 
 ### VRChat Recording Setup
+> This is optional, but following this guide will provide you with the highest quality recording and maximum flexibility for editing the footage afterwards.
 
+1. Go to VRChat Steam Properties and add these `launch options` depending on your screen resolution:
 
+   | Screen Size | Launch Option |
+   |---|---|
+   | 2560x1440 | `-screen-width 2561 -screen-height 1440` |
+   | 1920x1080 | `-screen-width 1921 -screen-height 1080` |
+
+2. 
 
