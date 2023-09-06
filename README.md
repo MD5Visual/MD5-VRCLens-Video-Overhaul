@@ -134,19 +134,28 @@ This system is designed to allow enchanced control over video recording in VRCha
 ### Sizer Instructions (ONLY NEEDED TO DO ONCE)
 
 1. Right-click the `Sizer` icon from the `Show Hidden Icons` section in your taskbar and press `Configure Sizer...`
-4. Once in Sizer, click `Add Size` and a new window should pop up.
-5. Set the `Description` to something like `VRCL-DC Overlay`
-6. Set `Width` to `2561` and `Height` to `1440` for 2560x1440 screen size, or `Width` to `1921` and `Height` to `1080` for 1920x1080 screen size
-7. Click `OK*` to save
+
+![chrome_2023-09-06_21-39-07](https://github.com/MD5Visual/VRCL-DC/assets/134655923/5953f887-7d34-4ce9-85e0-3d40911b2b4e)
+
+2. Once in Sizer, click `Add Size` and a new window should pop up.
+3. Set the `Description` to something like `VRCL-DC Overlay`
+4. Set `Width` to `2561` and `Height` to `1440` for 2560x1440 screen size, or `Width` to `1921` and `Height` to `1080` for 1920x1080 screen size
+
+![sizer_2023-09-06_21-50-51](https://github.com/MD5Visual/VRCL-DC/assets/134655923/46b8457c-fb8e-4fcc-a4e4-25d2dfa555d9)
+  
+5. Click `OK*` to save
 
 ### ImgOverlay Instructions
 
 1. In `ImgOverlay`, press `Load...` and load the `VRCL-DC Desktop Overlay.png`
-4. Once loaded, press `Move Image` in ImgOverlay
-1. Hover over the overlay image and press `Ctrl+Win+Z` to open up Sizer popup menu and press the `VRCL-DC Overlay` option in the menu that appears
-2. Once the overlay is resized, move it to match the overlay top left corner with VRChat window top left corner
-3. After alignment, click `Move Image` again to disable the ability to move the overlay
-4. Minimize the `Image Overlay` window and the overlay is ready to be used.
+2. Once loaded, press `Move Image` in ImgOverlay
+3. Hover over the overlay image and press `Ctrl+Win+Z` to open up Sizer popup menu and press the `VRCL-DC Overlay` option in the menu that appears
+
+![chrome_2023-09-06_21-53-46](https://github.com/MD5Visual/VRCL-DC/assets/134655923/442e3eeb-dac2-4a79-99c6-bc9f3b3e5da2)
+
+4. Once the overlay is resized, move it to match the overlay top left corner with VRChat window top left corner
+5. After alignment, click `Move Image` again to disable the ability to move the overlay
+6. Minimize the `Image Overlay` window and the overlay is ready to be used.
 
 ### VRChat instructions
 1. When in `VRChat`, launch the `MD5 Camera System`, ensure all the settings are correct in the top right corner preview.
