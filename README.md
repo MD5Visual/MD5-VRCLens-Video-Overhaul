@@ -105,27 +105,32 @@ This system is designed to allow enchanced control over video recording in VRCha
 4. Add `Application Audio Capture` and select VRChat as the Window
 5. Your "Audio Mixer" should look something like this:
 
-![obs64_2023-09-06_20-59-24](https://github.com/MD5Visual/VRCL-DC/assets/134655923/2f36f859-54e3-42ad-b489-0e338306c25a)
+![obs64_2023-09-06_20-59-24](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/898f7cc7-88c7-4cb0-a5c1-ee131d6a26a4)
+
 
 6. Open up `Advanced Audio Properties`
 
-![obs64_2023-09-06_21-04-33](https://github.com/MD5Visual/VRCL-DC/assets/134655923/94a862ef-6fe3-41f8-896e-ae330674acda)
+![obs64_2023-09-06_21-04-33](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/c1671232-9eaa-435d-81ea-a8f707be7597)
+
 
 7. And setup the tracks of different inputs like this:
 
-![obs64_2023-09-06_21-10-14](https://github.com/MD5Visual/VRCL-DC/assets/134655923/8a6d02a1-9037-4acf-bfeb-8ff310156d7e)
+![obs64_2023-09-06_21-10-14](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/f1c8670f-c0ab-40e9-95e8-08e004c92368)
+
 
 8. Close `Advanced Audio Propertis`
 9. Open OBS Settings
 10. In `Video` set the `Base (Canvas) Resolution` and `Output (Canvas) Resolution` to `2560x1440` if you have a `2560x1440` resolution screen or `1920x1080` if you have a `1920x1080` resolution screen
 11. Set the `Common FPS Values` to `30`, if not set by default
 
-    ![obs64_2023-09-06_21-11-59](https://github.com/MD5Visual/VRCL-DC/assets/134655923/3527ea0d-a106-45e0-9662-8820bd8f1515)
+![obs64_2023-09-06_21-11-59](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/ad1966bf-24fd-49d1-83f5-d328e311ab45)
+
 
 12. In `Output` set the `Output Mode` to `Advanced` and go to `Recording` tab
 13. Set the settings to be like the screenshot
 
-    ![obs64_2023-09-06_21-15-13](https://github.com/MD5Visual/VRCL-DC/assets/134655923/bcc87f1f-e41e-46b4-9e7b-c80670126170)
+![obs64_2023-09-06_21-15-13](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/fd55894b-6d20-4956-994b-800e05ffd88a)
+
 
 14. Click `Save`
 14. You are ready to record!
