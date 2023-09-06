@@ -1,8 +1,11 @@
 # MD5 VRCLens Videography Overhaul Extension
 
-Created by MD5 Visual
+Created by **MD5 Visual**
+
 Twitter: [https://twitter.com/MD5Visual](https://twitter.com/MD5Visual)
+
 Instagram: [https://www.instagram.com/MD5Visual/](https://www.instagram.com/MD5Visual/)
+
 Discord: Mrdanslite
 
 ## Overview
