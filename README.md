@@ -11,9 +11,7 @@ This system is designed to allow enchanced control over video recording in VRCha
   
   __*or*__ Android Device (Phone/Tablet)
   
-  __*or*__ PC
-  
-  __*or*__ Mac
+  __*or*__ PC/Mac
 * [OBS](https://obsproject.com/download)
   
 *For Desktop Recording:*
