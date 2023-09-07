@@ -69,10 +69,10 @@ This system is designed to allow enchanced control over video recording in VRCha
 
 | Platform | File |
 |---|---|
-| Android Phone | VRCL-DC_Android_X.XX.X_XXXXX.tosc |
-| Android Tablet/PC/Mac | VRCL-DC_Android_Tab_Win_Mac_X.XX.X_XXXXX.tosc |
+| Android Phone | VRCL-DC_Android_Tab_Win_X.XX.X_XXXXX.tosc |
+| Android Tablet/PC/Mac | VRCL-DC_Android_Tab_Win_X.XX.X_XXXXX.tosc |
 | iPad | VRCL-DC_iPad_X.XX.X_XXXXX.tosc |
-| iPhone | VRCL-DC_iPhone_X.XX.X_XXXXX.tosc |
+| iPhone | VRCL-DC_iPad_X.XX.X_XXXXX.tosc |
 
 3. Load the file corresponding to your device into TouchOSC
 4. Go to the ![TouchOSC_2023-09-06_20-29-10](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/bc02fc8e-7f22-4d99-b464-9c1ae4745b44) menu and setup `OSC` and `GAMEPAD` sections
