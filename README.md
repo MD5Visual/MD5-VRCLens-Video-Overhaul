@@ -65,7 +65,7 @@ This system is designed to allow enchanced control over video recording in VRCha
 ### TouchOSC Setup
 
 1. Download and install [TouchOSC](https://hexler.net/touchosc) on a device of your choosing
-2. Download
+2. Download the correct file for your platform
 
 | Platform | File |
 |---|---|
