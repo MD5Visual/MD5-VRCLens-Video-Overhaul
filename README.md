@@ -69,8 +69,8 @@ This system is designed to allow enchanced control over video recording in VRCha
 
 | Platform | File |
 |---|---|
-| Android Phone | VRCL-DC_Android_Tab_Win_X.XX.X_XXXXX.tosc |
-| Android Tablet/PC/Mac | VRCL-DC_Android_Tab_Win_X.XX.X_XXXXX.tosc |
+| Android Phone | VRCL-DC_Android_Win_X.XX.X_XXXXX.tosc |
+| Android Tablet/PC/Mac | VRCL-DC_Android_Win_X.XX.X_XXXXX.tosc |
 | iPad | VRCL-DC_iPad_X.XX.X_XXXXX.tosc |
 | iPhone | VRCL-DC_iPad_X.XX.X_XXXXX.tosc |
 
