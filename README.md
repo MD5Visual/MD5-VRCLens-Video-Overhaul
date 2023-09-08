@@ -156,7 +156,7 @@ This system is designed to allow enchanced control over video recording in VRCha
 
 2. Once in Sizer, click `Add Size` and a new window should pop up.
 3. Set the `Description` to something like `VRCL-DC Overlay`
-4. Set `Width` to `2561` and `Height` to `1440` for 2560x1440 screen size, or `Width` to `1921` and `Height` to `1080` for 1920x1080 screen size
+4. Set `Width` to `2561` and `Height` to `1480` for 2560x1440 screen size, or `Width` to `1921` and `Height` to `1080` for 1920x1080 screen size
 
 ![sizer_2023-09-06_21-50-51](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/b5a2a209-045d-4af8-bd68-a04a2363a381)
 
