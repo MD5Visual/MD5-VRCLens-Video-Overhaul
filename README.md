@@ -56,7 +56,7 @@ This system is designed to allow enchanced control over video recording in VRCha
 
 > *This "Best quality" is best ratio of performance hit to final shot result. If you have a 4K screen and a rig with multiple 4090s you can increase the sensor resolution to `8.3MP 4K (3840x2160)`, but that will only allow you to record a couple of people in the world at once.
 
-8. *OPTIONAL* You can set `Camera Model: **None**` to save on materials
+9. *OPTIONAL* You can set `Camera Model: **None**` to save on materials
 9. Click `Apply VRCLens`
 10. Import `VRCL-DC Controller Update.unitypackage` into your Unity Project
 11. Delete ALL `vCNT_*`, `vCNR_*`, `vCNG_*` and `vCNP_*` layers from your avatar `FX` controller
