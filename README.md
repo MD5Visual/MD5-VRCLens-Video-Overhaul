@@ -59,7 +59,7 @@ This system is designed to allow enchanced control over video recording in VRCha
 8. *OPTIONAL* You can set `Camera Model: **None**` to save on materials
 9. Click `Apply VRCLens`
 10. Import `VRCL-DC Controller Update.unitypackage` into your Unity Project
-11. Delete ALL `vCNT_*`, `vCNR_*` and `vCNP_*` layers from your avatar `FX` controller
+11. Delete ALL `vCNT_*`, `vCNR_*`, `vCNG_*` and `vCNP_*` layers from your avatar `FX` controller
 12. Delete ALL `VRCL_____` parameters from your avatar `FX` controller
 13. Merge `VRCL_DC_FX` controller with your avatar `FX` controller
 14. Replace/merge your `Expression Menu`/`Expression Parameters` on your avatar with `VRCL_DC_Menu`/`VRCL_DC_Parameters` respectivelly
