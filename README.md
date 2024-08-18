@@ -40,7 +40,7 @@ This system is designed to allow enchanced control over video recording in VRCha
 
 > Video guide to go along with the written guide: **[VIDEO GUIDE](https://www.youtube.com/watch?v=mWhpjYjM0os)**
 
-
+![vrcldc_tutorial_8 1 1](https://github.com/user-attachments/assets/57e0b5e0-3af6-4463-aa31-c53dd267433c)
 
 1. Purchase a copy of [Hirabiki's VRCLens](https://hirabiki.gumroad.com/l/rpnel)
 2. Download the latest `VRCL-DC Controller Update.unitypackage` from the Releases
