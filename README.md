@@ -38,7 +38,7 @@ This system is designed to allow enchanced control over video recording in VRCha
 
 ### VRCLens Setup
 
-Video guide to go along with the written guide:
+> Video guide to go along with the written guide:
 ### [VIDEO GUIDE](https://www.youtube.com/watch?v=mWhpjYjM0os)
 
 
