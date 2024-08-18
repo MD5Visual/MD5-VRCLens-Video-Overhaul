@@ -38,8 +38,8 @@ This system is designed to allow enchanced control over video recording in VRCha
 
 ### VRCLens Setup
 
-> Video guide to go along with the written guide:
-### [VIDEO GUIDE](https://www.youtube.com/watch?v=mWhpjYjM0os)
+> Video guide to go along with the written guide: **[VIDEO GUIDE](https://www.youtube.com/watch?v=mWhpjYjM0os)**
+
 
 
 1. Purchase a copy of [Hirabiki's VRCLens](https://hirabiki.gumroad.com/l/rpnel)
