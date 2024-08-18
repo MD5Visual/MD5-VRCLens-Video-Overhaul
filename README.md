@@ -39,7 +39,7 @@ This system is designed to allow enchanced control over video recording in VRCha
 ### VRCLens Setup
 
 1. Purchase a copy of [Hirabiki's VRCLens](https://hirabiki.gumroad.com/l/rpnel)
-2. Download VRCL-DC Controller Update.unitypackage from the Releases
+2. Download the latest `VRCL-DC Controller Update.unitypackage` from the Releases
 3. Select an avatar that you wish to add VRCLens to
 4. Import VRCLens .unitypackage into your Unity project
 5. Add VRCLens prefab to your scene
