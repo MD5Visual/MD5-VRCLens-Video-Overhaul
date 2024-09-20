@@ -87,9 +87,9 @@ This system is designed to allow enchanced control over video recording in VRCha
     ![TouchOSC_2023-09-06_20-29-42](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/34ecb53d-77f6-4814-874b-7b89b104c3a3)
 
 
-  > If you are using any device that is not the PC on which you are running VRChat, you have to download TouchOSC on your PC and have it running.
+  > If you are using any device that is not the PC on which you are running VRChat, you have to connect to VRChat on your PC (VRChat has to be running).
   Once you've done that, on your device press the `Browse` button next to the `Host:` input.
-  It should show your computer on the list. Click on your PC name, and then select the `192.168.XXX.XXX` IP address. Otherwise, if your are using TouchOSC on your PC, use `127.0.0.1` like on the screenshot.
+  It should show your VRChat on the list. Click on your VRChat, and voila, your correct IP is entered. Otherwise, if your are using TouchOSC on your PC, use `127.0.0.1` like on the screenshot.
 
    ![TouchOSC_2023-09-06_20-29-58](https://github.com/MD5Visual/MD5-VRCLens-Video-Overhaul/assets/134655923/ce4b7999-1c4f-409a-af46-eafe5279e274)
 
